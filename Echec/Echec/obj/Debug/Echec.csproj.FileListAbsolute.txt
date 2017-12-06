@@ -1,0 +1,6 @@
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\Echec\Echec\bin\Debug\Echec.exe.config
+C:\Users\diego\OneDrive\documents\visual studio 2015\Projects\Echec\Echec\obj\Debug\Echec.csprojResolveAssemblyReference.cache
+C:\Users\diego\OneDrive\documents\visual studio 2015\Projects\Echec\Echec\bin\Debug\Echec.exe
+C:\Users\diego\OneDrive\documents\visual studio 2015\Projects\Echec\Echec\bin\Debug\Echec.pdb
+C:\Users\diego\OneDrive\documents\visual studio 2015\Projects\Echec\Echec\obj\Debug\Echec.exe
+C:\Users\diego\OneDrive\documents\visual studio 2015\Projects\Echec\Echec\obj\Debug\Echec.pdb
